@@ -1,6 +1,6 @@
 - Get started
 
-  - [1. Install](https://yohanfinet.github.io/Flyable-Documentation/#/install)
+  - [1. Install](install.md)
   - [2. Hello World!](hello-world.md)
   - [3. Learn more](learn-more.md)
 

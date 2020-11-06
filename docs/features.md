@@ -3,8 +3,6 @@
 ## 1. Modules
 ### Supported
 
-<br />
-
 - math
 - operator
 - stat (partially supported)
